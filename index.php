@@ -23,14 +23,14 @@
 
         <section id="carousel-1" class="carousel slide section-slide" data-ride="carousel">
           <div class="carousel-inner">
-            <div class="item active" style="background: url(images/bg-1.jpg);">
+            <div class="item active" style="background: url(images/bgpic-1.jpg);">
               <div class="container"><img src="images/typo-2.png" alt="First slide"></div>
             </div>
-            <div class="item" style="background: url(images/bg-2.jpg);">
-              <div class="container"><img src="images/typo-3.png" alt="First slide"></div>
+            <div class="item" style="background: url(images/bgpic-2.jpg);">
+              <div class="container"><img src="images/typo-3.png" alt="Second slide"></div>
             </div>
-            <div class="item" style="background: url(images/bg-3.jpg);">
-              <div class="container"><img src="images/typo-4.png" alt="First slide"></div>
+            <div class="item" style="background: url(images/bgpic-3.jpg);">
+              <div class="container"><img src="images/typo-4.png" alt="Third slide"></div>
             </div>
           </div>
           <a class="left carousel-control" href="#carousel-1" data-slide="prev"><span class="fa fa-chevron-left"></span></a>
