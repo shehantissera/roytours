@@ -28,7 +28,7 @@
 
               <aside class="widget col-md-3 col-sm-6">
                 <h5 class="widget-title">Need Help?</h5>
-                <p>Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptate rerum voluptates. <a href="#">Read more</a></p>
+                <p>Some kind of a discription is going to displayed over here. <a href="#">Read more</a></p>
               </aside>
 
               <aside class="widget col-md-3 col-sm-6">

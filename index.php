@@ -421,8 +421,8 @@
 
         <section id="contact" class="section section-center section-cta">
           <div class="container">
-            <h2 class="section-title"><span>Stop Wasting Your Website's Potential</span></h2>
-            <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui.</p>
+            <h2 class="section-title"><span>Contact us</span></h2>
+            <p>Get the help from a professional. To contact please the following fields and send it to us. Get the help from a professional. To contact please the following fields and send it to us. Get the help from a professional. To contact please the following fields and send it to us. Get the help from a professional. To contact please the following fields and send it to us. </p>
             <div class="main-action">
               <div class="row">
                 <div class="col-lg-8 col-lg-offset-2">
