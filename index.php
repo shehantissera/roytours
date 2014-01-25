@@ -438,13 +438,13 @@
                     </div>
                     <div class="form-group">
                       <label class="sr-only">Phone</label>
-                      <input type="email" class="form-control" placeholder="Phone">
+                      <input type="number" class="form-control" placeholder="Phone">
                     </div>
                   </div>
                   <div class="col-sm-6">
                     <div class="form-group">
                       <label class="sr-only">Message</label>
-                      <textarea type="email" class="form-control" placeholder="Message" rows="6"></textarea>
+                      <textarea class="form-control" placeholder="Message" rows="6"></textarea>
                     </div>
                   </div>
                 </div>
@@ -470,7 +470,7 @@
     <script src="assets/js/bootstrap-3.0.3.min.js"></script>
     <script src="assets/js/jquery.singlePageNav.min.js"></script>
     <script src="assets/js/main.js"></script>
-	<script>
+	<!--<script>
 		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
 		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
 		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
@@ -478,7 +478,7 @@
 
 		ga('create', 'UA-37674361-2', 'yoarts.com');
 		ga('send', 'pageview');
-	</script>
+	</script>-->
 
   </body>
 </html>
