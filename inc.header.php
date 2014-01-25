@@ -1,5 +1,5 @@
 <?php ?>
-<header id="header" class="site-header">
+	<header id="header" class="site-header">
         <div class="container">
           <h1 class="navbar-brand"><a href="index.php">Roy Tours</a></h1>
           <ul id="navigation" class="nav nav-pills pull-right">
@@ -15,4 +15,4 @@
             <li><a href="#contact">Contact</a></li>
           </ul>
         </div>
-      </header>
+    </header>

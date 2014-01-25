@@ -2,8 +2,8 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Roy Tours - Sri Lanka</title>
     <link href="assets/css/template.css" rel="stylesheet">
@@ -149,7 +149,6 @@
           </div>
         </section>
 
-        <!-- Project Modal -->
         <div class="modal fade" id="project-modal" tabindex="-1" role="dialog" aria-labelledby="project-modal-label" aria-hidden="true">
           <div class="modal-dialog">
             <div class="modal-content">
@@ -162,9 +161,9 @@
                   <div class="project-thumbnail">
                     <div id="project-thumbnail-carousel-1" class="carousel slide" data-ride="carousel">
                       <div class="carousel-inner">
-                        <div class="item active"><img src="images/single-project-1.jpg" /></div>
-                        <div class="item"><img src="images/single-project-2.png" /></div>
-                        <div class="item"><img src="images/single-project-3.jpg" /></div>
+                        <div class="item active"><img alt="p1" src="images/single-project-1.jpg" /></div>
+                        <div class="item"><img alt="p1" src="images/single-project-2.png" /></div>
+                        <div class="item"><img alt="p1" src="images/single-project-3.jpg" /></div>
                       </div>
                       <ol class="carousel-indicators">
                         <li data-target="#project-thumbnail-carousel-1" data-slide-to="0" class="active"></li>
@@ -188,8 +187,8 @@
                     <div class="col-md-8">
                       <p>Suspendisse varius nisl nunc. Aenean in dictum nibh. Nullam congue facilisis purus porta ullamcorper. Aenean in consequat sapien. Cras orci augue, ultricies at luctus congue, dapibus sed magna. Vivamus consequat commodo pharetra. Maecenas sed tincidunt mi, quis accumsan nisi. Praesent ac porttitor massa. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Curabitur in bibendum tellus, vitae imperdiet mauris.</p>
                     </div>
-                  </article>
-                </div>
+					</div>
+				</article>
               </div>
             </div>
           </div>
@@ -330,29 +329,29 @@
                 <h3 class="section-title"><span>Our Funny Team</span></h3>
                 <div class="row">
                     <div class="col-md-2 col-sm-4 col-xs-6">
-                        <img src="../../distilleryimage4.s3.amazonaws.com/78f166dc77a011e3a3ef0e7d4056843c_6.jpg">
+                        <img alt="p1" src="../../distilleryimage4.s3.amazonaws.com/78f166dc77a011e3a3ef0e7d4056843c_6.jpg">
                         <h5>Rihanna</h5>
                     </div>
                     
                     <div class="col-md-2 col-sm-4 col-xs-6">
-                        <img src="../../distilleryimage5.s3.amazonaws.com/7cd1ed40766411e3b2c112112ffff7c9_6.jpg">
+                        <img alt="p1" src="../../distilleryimage5.s3.amazonaws.com/7cd1ed40766411e3b2c112112ffff7c9_6.jpg">
                         <h5>Marry</h5>
                     </div>
                     <div class="col-md-2 col-sm-4 col-xs-6">
-                        <img src="../../distilleryimage8.s3.amazonaws.com/f43436ca180b11e39a4922000a1fb37b_6.jpg">
+                        <img alt="p1" src="../../distilleryimage8.s3.amazonaws.com/f43436ca180b11e39a4922000a1fb37b_6.jpg">
                         <h5>Ronaldo</h5>
                     </div>
                     
                     <div class="col-md-2 col-sm-4 col-xs-6">
-                        <img src="../../distilleryimage11.s3.amazonaws.com/532c6464798b11e3855a126610d3d793_6.jpg">
+                        <img alt="p1" src="../../distilleryimage11.s3.amazonaws.com/532c6464798b11e3855a126610d3d793_6.jpg">
                         <h5>Jackie Lord</h5>
                     </div>
                     <div class="col-md-2 col-sm-4 col-xs-6">
-                        <img src="../../distilleryimage0.s3.amazonaws.com/4ed0bf8a742e11e3bb680ee50d64ca74_6.jpg">
+                        <img alt="p1" src="../../distilleryimage0.s3.amazonaws.com/4ed0bf8a742e11e3bb680ee50d64ca74_6.jpg">
                         <h5>David Beckham</h5>
                     </div>
                     <div class="col-md-2 col-sm-4 col-xs-6">
-                        <img src="../../distilleryimage0.s3.amazonaws.com/b8adbd6677f511e3b8cd1227d7fa1b14_6.jpg">
+                        <img alt="p1" src="../../distilleryimage0.s3.amazonaws.com/b8adbd6677f511e3b8cd1227d7fa1b14_6.jpg">
                         <h5>John Doe</h5>
                     </div>
                 </div>
@@ -426,33 +425,60 @@
             <div class="main-action">
               <div class="row">
                 <div class="col-lg-8 col-lg-offset-2">
-                  <form class="form-inline" role="form">
+                  <form role="form">
+                <div class="row">
+                  <div class="col-sm-6">
                     <div class="form-group">
-                      <label class="sr-only">Your Name</label>
-                      <input type="text" class="form-control input-lg input-circle" placeholder="Your name">
+                      <label class="sr-only">Name</label>
+                      <input type="text" class="form-control" placeholder="Name">
                     </div>
                     <div class="form-group">
-                      <label class="sr-only">Your Email</label>
-                      <input type="email" class="form-control input-lg input-circle" placeholder="Your email">
+                      <label class="sr-only">Email</label>
+                      <input type="email" class="form-control" placeholder="Email">
                     </div>
-                    <button type="submit" class="btn btn-default btn-lg">Request Quote</button>
-                  </form>
+                    <div class="form-group">
+                      <label class="sr-only">Phone</label>
+                      <input type="email" class="form-control" placeholder="Phone">
+                    </div>
+                  </div>
+                  <div class="col-sm-6">
+                    <div class="form-group">
+                      <label class="sr-only">Message</label>
+                      <textarea type="email" class="form-control" placeholder="Message" rows="6"></textarea>
+                    </div>
+                  </div>
+                </div>
+                <button type="submit" class="btn btn-default">Send message</button>
+              </form>
                 </div>
               </div>
             </div>
           </div>
         </section>
+		
+		<section id="gmap" class="section section-gmap">
+          <iframe class="gmap" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.co.in/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=new+york&amp;aq=0&amp;oq=new+yourk&amp;sll=22.548872,72.944734&amp;sspn=0.117318,0.209255&amp;ie=UTF8&amp;hq=&amp;hnear=New+York,+United+States&amp;t=m&amp;z=10&amp;iwloc=A&amp;ll=40.714353,-74.005973&amp;output=embed"></iframe>
+        </section>
 
       </main>
-	  
+
 	  <?php include_once "inc.footer.php" ?>
       
     </div>
   
-    <script src="http://code.jquery.com/jquery-1.10.2.min.js"></script>
+    <script src="https://code.jquery.com/jquery-1.10.2.min.js"></script>
     <script src="assets/js/bootstrap-3.0.3.min.js"></script>
     <script src="assets/js/jquery.singlePageNav.min.js"></script>
     <script src="assets/js/main.js"></script>
+	<script>
+		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		ga('create', 'UA-37674361-2', 'yoarts.com');
+		ga('send', 'pageview');
+	</script>
 
   </body>
 </html>
