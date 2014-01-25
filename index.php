@@ -93,106 +93,33 @@
           </div>
         </section>
 
-        <section id="portfolio" class="section section-portfolio">
+        <section id="clients" class="section section-hilite section-our-clients">
           <div class="container">
-            <h2 class="section-title"><span>Recent Works.</span></h2>
+            <h2 class="section-title"><span>Our Clients</span></h2>
             <div class="row">
-              <div class="col-md-3 col-sm-6">
-                <article class="hentry post portfolio simple-effect">
-                  <div class="entry-thumbnail">
-                    <a href="#" data-toggle="modal" data-target="#project-modal">
-                      <img src="images/project-1.jpg" alt="" />
-                      <span class="overlay"><i class="fa fa-plus"></i></span>
-                    </a>
-                  </div>
-                  <h4><a href="#" data-toggle="modal" data-target="#project-modal">Project Title</a></h4>
-                  <span class="text-muted">Application Design</span>
-                </article>
+              <div class="col-md-2 col-sm-4 col-xs-6">
+                <a href="#"><img src="images/client-1.png" alt="" /></a>
               </div>
-              <div class="col-md-3 col-sm-6">
-                <article class="hentry post portfolio simple-effect">
-                  <div class="entry-thumbnail">
-                    <a href="#" data-toggle="modal" data-target="#project-modal">
-                      <img src="images/project-2.jpg" alt="" />
-                      <span class="overlay"><i class="fa fa-plus"></i></span>
-                    </a>
-                  </div>
-                  <h4><a href="#" data-toggle="modal" data-target="#project-modal">Project Title</a></h4>
-                  <span class="text-muted">Web Design</span>
-                </article>
+              <div class="col-md-2 col-sm-4 col-xs-6">
+                <a href="#"><img src="images/client-2.png" alt="" /></a>
               </div>
-              <div class="col-md-3 col-sm-6">
-                <article class="hentry post portfolio simple-effect">
-                  <div class="entry-thumbnail">
-                    <a href="#" data-toggle="modal" data-target="#project-modal">
-                      <img src="images/project-3.png" alt="" />
-                      <span class="overlay"><i class="fa fa-plus"></i></span>
-                    </a>
-                  </div>
-                  <h4><a href="#" data-toggle="modal" data-target="#project-modal">Project Title</a></h4>
-                  <span class="text-muted">Icon Design</span>
-                </article>
+              <div class="col-md-2 col-sm-4 col-xs-6">
+                <a href="#"><img src="images/client-3.png" alt="" /></a>
               </div>
-              <div class="col-md-3 col-sm-6">
-                <article class="hentry post portfolio simple-effect">
-                  <div class="entry-thumbnail">
-                    <a href="#" data-toggle="modal" data-target="#project-modal">
-                      <img src="images/project-4.png" alt="" />
-                      <span class="overlay"><i class="fa fa-plus"></i></span>
-                    </a>
-                  </div>
-                  <h4><a href="#" data-toggle="modal" data-target="#project-modal">Project Title</a></h4>
-                  <span class="text-muted">UI Design</span>
-                </article>
+              <div class="col-md-2 col-sm-4 col-xs-6">
+                <a href="#"><img src="images/client-4.png" alt="" /></a>
+              </div>
+              <div class="col-md-2 col-sm-4 col-xs-6">
+                <a href="#"><img src="images/client-5.png" alt="" /></a>
+              </div>
+              <div class="col-md-2 col-sm-4 col-xs-6">
+                <a href="#"><img src="images/client-6.png" alt="" /></a>
               </div>
             </div>
           </div>
         </section>
 
-        <div class="modal fade" id="project-modal" tabindex="-1" role="dialog" aria-labelledby="project-modal-label" aria-hidden="true">
-          <div class="modal-dialog">
-            <div class="modal-content">
-              <div class="modal-header">
-                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
-                <h4 class="modal-title" id="project-modal-label">Project title</h4>
-              </div>
-              <div class="modal-body">
-                <article class="single-project">
-                  <div class="project-thumbnail">
-                    <div id="project-thumbnail-carousel-1" class="carousel slide" data-ride="carousel">
-                      <div class="carousel-inner">
-                        <div class="item active"><img alt="p1" src="images/single-project-1.jpg" /></div>
-                        <div class="item"><img alt="p1" src="images/single-project-2.png" /></div>
-                        <div class="item"><img alt="p1" src="images/single-project-3.jpg" /></div>
-                      </div>
-                      <ol class="carousel-indicators">
-                        <li data-target="#project-thumbnail-carousel-1" data-slide-to="0" class="active"></li>
-                        <li data-target="#project-thumbnail-carousel-1" data-slide-to="1"></li>
-                        <li data-target="#project-thumbnail-carousel-1" data-slide-to="2"></li>
-                      </ol>
-                      <a class="left carousel-control" href="#project-thumbnail-carousel-1" data-slide="prev"><span class="fa fa-chevron-left"></span></a>
-                      <a class="right carousel-control" href="#project-thumbnail-carousel-1" data-slide="next"><span class="fa fa-chevron-right"></span></a>
-                    </div>
-                  </div>
-                  <div class="row">
-                    <div class="col-md-4">
-                      <button type="button" class="btn btn-block btn-primary">Launch Project</button>
-                      <ul class="list-unstyled project-info">
-                        <li><strong>Type</strong> <span class="pull-right">Web Design</span></li>
-                        <li><strong>Client</strong> <span class="pull-right">Google</span></li>
-                        <li><strong>Year</strong> <span class="pull-right">2014</span></li>
-                      </ul>
-                      
-                    </div>
-                    <div class="col-md-8">
-                      <p>Suspendisse varius nisl nunc. Aenean in dictum nibh. Nullam congue facilisis purus porta ullamcorper. Aenean in consequat sapien. Cras orci augue, ultricies at luctus congue, dapibus sed magna. Vivamus consequat commodo pharetra. Maecenas sed tincidunt mi, quis accumsan nisi. Praesent ac porttitor massa. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Curabitur in bibendum tellus, vitae imperdiet mauris.</p>
-                    </div>
-					</div>
-				</article>
-              </div>
-            </div>
-          </div>
-        </div>
+        
 
         <section id="testimonials" class="section section-center section-hilite section-testimonial">
           <div class="container">
@@ -391,29 +318,112 @@
             </div>
           </div>
         </section>
-
-        <section id="clients" class="section section-hilite section-our-clients">
+		
+		<section id="tours" class="section section-tours">
           <div class="container">
-            <h2 class="section-title"><span>Our Clients</span></h2>
+            <h2 class="section-title"><span>Tours</span></h2>
             <div class="row">
-              <div class="col-md-2 col-sm-4 col-xs-6">
-                <a href="#"><img src="images/client-1.png" alt="" /></a>
+              <div class="col-md-3 col-sm-6">
+                <article class="hentry post portfolio simple-effect">
+                  <div class="entry-thumbnail">
+                    <a href="#" data-toggle="modal" data-target="#project-modal">
+                      <img src="images/project-1.jpg" alt="" />
+                      <span class="overlay"><i class="fa fa-plus"></i></span>
+                    </a>
+                  </div>
+                  <h4><a href="#" data-toggle="modal" data-target="#project-modal">Project Title</a></h4>
+                  <span class="text-muted">Application Design</span>
+                </article>
               </div>
-              <div class="col-md-2 col-sm-4 col-xs-6">
-                <a href="#"><img src="images/client-2.png" alt="" /></a>
+              <div class="col-md-3 col-sm-6">
+                <article class="hentry post portfolio simple-effect">
+                  <div class="entry-thumbnail">
+                    <a href="#" data-toggle="modal" data-target="#project-modal">
+                      <img src="images/project-2.jpg" alt="" />
+                      <span class="overlay"><i class="fa fa-plus"></i></span>
+                    </a>
+                  </div>
+                  <h4><a href="#" data-toggle="modal" data-target="#project-modal">Project Title</a></h4>
+                  <span class="text-muted">Web Design</span>
+                </article>
               </div>
-              <div class="col-md-2 col-sm-4 col-xs-6">
-                <a href="#"><img src="images/client-3.png" alt="" /></a>
+              <div class="col-md-3 col-sm-6">
+                <article class="hentry post portfolio simple-effect">
+                  <div class="entry-thumbnail">
+                    <a href="#" data-toggle="modal" data-target="#project-modal">
+                      <img src="images/project-3.png" alt="" />
+                      <span class="overlay"><i class="fa fa-plus"></i></span>
+                    </a>
+                  </div>
+                  <h4><a href="#" data-toggle="modal" data-target="#project-modal">Project Title</a></h4>
+                  <span class="text-muted">Icon Design</span>
+                </article>
               </div>
-              <div class="col-md-2 col-sm-4 col-xs-6">
-                <a href="#"><img src="images/client-4.png" alt="" /></a>
+              <div class="col-md-3 col-sm-6">
+                <article class="hentry post portfolio simple-effect">
+                  <div class="entry-thumbnail">
+                    <a href="#" data-toggle="modal" data-target="#project-modal">
+                      <img src="images/project-4.png" alt="" />
+                      <span class="overlay"><i class="fa fa-plus"></i></span>
+                    </a>
+                  </div>
+                  <h4><a href="#" data-toggle="modal" data-target="#project-modal">Project Title</a></h4>
+                  <span class="text-muted">UI Design</span>
+                </article>
               </div>
-              <div class="col-md-2 col-sm-4 col-xs-6">
-                <a href="#"><img src="images/client-5.png" alt="" /></a>
+			  
+			  <div class="col-md-3 col-sm-6">
+                <article class="hentry post portfolio simple-effect">
+                  <div class="entry-thumbnail">
+                    <a href="#" data-toggle="modal" data-target="#project-modal">
+                      <img src="images/project-3.png" alt="" />
+                      <span class="overlay"><i class="fa fa-plus"></i></span>
+                    </a>
+                  </div>
+                  <h4><a href="#" data-toggle="modal" data-target="#project-modal">Project Title</a></h4>
+                  <span class="text-muted">Icon Design</span>
+                </article>
               </div>
-              <div class="col-md-2 col-sm-4 col-xs-6">
-                <a href="#"><img src="images/client-6.png" alt="" /></a>
+			  <div class="col-md-3 col-sm-6">
+                <article class="hentry post portfolio simple-effect">
+                  <div class="entry-thumbnail">
+                    <a href="#" data-toggle="modal" data-target="#project-modal">
+                      <img src="images/project-1.jpg" alt="" />
+                      <span class="overlay"><i class="fa fa-plus"></i></span>
+                    </a>
+                  </div>
+                  <h4><a href="#" data-toggle="modal" data-target="#project-modal">Project Title</a></h4>
+                  <span class="text-muted">Application Design</span>
+                </article>
               </div>
+              <div class="col-md-3 col-sm-6">
+                <article class="hentry post portfolio simple-effect">
+                  <div class="entry-thumbnail">
+                    <a href="#" data-toggle="modal" data-target="#project-modal">
+                      <img src="images/project-4.png" alt="" />
+                      <span class="overlay"><i class="fa fa-plus"></i></span>
+                    </a>
+                  </div>
+                  <h4><a href="#" data-toggle="modal" data-target="#project-modal">Project Title</a></h4>
+                  <span class="text-muted">UI Design</span>
+                </article>
+              </div>
+			  <div class="col-md-3 col-sm-6">
+                <article class="hentry post portfolio simple-effect">
+                  <div class="entry-thumbnail">
+                    <a href="#" data-toggle="modal" data-target="#project-modal">
+                      <img src="images/project-2.jpg" alt="" />
+                      <span class="overlay"><i class="fa fa-plus"></i></span>
+                    </a>
+                  </div>
+                  <h4><a href="#" data-toggle="modal" data-target="#project-modal">Project Title</a></h4>
+                  <span class="text-muted">Web Design</span>
+                </article>
+              </div>
+              
+			  
+              
+			  
             </div>
           </div>
         </section>
@@ -438,7 +448,7 @@
                     </div>
                     <div class="form-group">
                       <label class="sr-only">Phone</label>
-                      <input type="number" class="form-control" placeholder="Phone">
+                      <input type="text" class="form-control" placeholder="Phone">
                     </div>
                   </div>
                   <div class="col-sm-6">
@@ -460,6 +470,8 @@
           <iframe class="gmap" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.co.in/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=new+york&amp;aq=0&amp;oq=new+yourk&amp;sll=22.548872,72.944734&amp;sspn=0.117318,0.209255&amp;ie=UTF8&amp;hq=&amp;hnear=New+York,+United+States&amp;t=m&amp;z=10&amp;iwloc=A&amp;ll=40.714353,-74.005973&amp;output=embed"></iframe>
         </section>
 
+		<?php include_once "inc.tours.php" ?>
+		
       </main>
 
 	  <?php include_once "inc.footer.php" ?>
