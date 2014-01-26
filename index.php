@@ -32,6 +32,9 @@
             <div class="item" style="background: url(images/bgpic-3.jpg);">
               <div class="container"><img src="images/typo-4.png" alt="Third slide"></div>
             </div>
+            <div class="item" style="background: url(images/bgpic-1.jpg);">
+              <div class="container"><img src="images/typo-2.png" alt="Fourth slide slide"></div>
+            </div>
           </div>
           <a class="left carousel-control" href="#carousel-1" data-slide="prev"><span class="fa fa-chevron-left"></span></a>
           <a class="right carousel-control" href="#carousel-1" data-slide="next"><span class="fa fa-chevron-right"></span></a>
